@@ -1,6 +1,8 @@
 # MVTec data loader
 Data loader for the MVTec dataset
 
+![MVTec example](/imgs/mvtec_example.jpg)
+
 ## Description
 
 Based on the CIFAR data loader from torchvision.
