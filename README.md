@@ -16,7 +16,7 @@ These files and the mvtec data directory must be in the same directory, such tha
 
 ## Main references
 
-- [1] https://www.mvtec.com/company/research/datasets/mvtec-ad
-- [2] https://openaccess.thecvf.com/content_CVPR_2019/papers/Bergmann_MVTec_AD_--_A_Comprehensive_Real-World_Dataset_for_Unsupervised_Anomaly_CVPR_2019_paper.pdf
-- [3] https://link.springer.com/content/pdf/10.1007/s11263-020-01400-4.pdf
-- [4] https://paperswithcode.com/dataset/mvtecad
+- [1] [Dataset](https://www.mvtec.com/company/research/datasets/mvtec-ad)
+- [2] [Short paper](https://openaccess.thecvf.com/content_CVPR_2019/papers/Bergmann_MVTec_AD_--_A_Comprehensive_Real-World_Dataset_for_Unsupervised_Anomaly_CVPR_2019_paper.pdf)
+- [3] [Long paper](https://link.springer.com/content/pdf/10.1007/s11263-020-01400-4.pdf)
+- [4] [Papers with code link](https://paperswithcode.com/dataset/mvtecad)
