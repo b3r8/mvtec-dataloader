@@ -67,8 +67,7 @@ class MVTEC(VisionDataset):
             cwd = os.getcwd()
             trainFolder = os.path.join(self.root, self.category, 'train/good/')
             os.chdir(trainFolder)
-            #filenames = [file.name for file in os.scandir()]
-            #for file in filenames:
+
             for file in os.scandir():
                 img = mpimg.imread(file.name)
                 img = img*255
